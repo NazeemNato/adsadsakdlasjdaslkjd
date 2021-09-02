@@ -30,7 +30,7 @@ const key = "userToken"
 
 app.get("/", (req, res) => {
   return res.send("Hey Welcome")
-})
+}) 
 
 app.post("/auth", async (req, res) => {
   const name = req.body.name || "Nazeem";
