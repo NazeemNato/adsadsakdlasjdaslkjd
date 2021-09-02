@@ -22,7 +22,7 @@ const PORT = 8000;
 
 const domains = [
   "samecookie.nazeemnato.repl.co",
-  "site2-roan.vercel.app",
+  "site1roan.vercel.app",
 ]
 
 const key = "userToken"
